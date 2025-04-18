@@ -8,6 +8,10 @@ authors = [
 readme = "README.md"
 requires-python = "^3.9"
 dependencies = [
+    "matplotlib (==3.8.3)",
+    "tensorflow (==2.16.1)",
+    "notebook (==7.0.8)",
+    "numpy (==1.26.4)"
 ]
 
 
